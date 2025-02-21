@@ -53,6 +53,7 @@ header .nav-link:hover::after {
 .my-social img:hover {
   transform: scale(1.2);
   filter: brightness(1.2);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 #home {
